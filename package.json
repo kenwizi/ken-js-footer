@@ -1,0 +1,25 @@
+{
+  "name": "ken-js-footer",
+  "version": "0.1.0",
+  "description": "footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenwizi/ken-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Kenneth Adigbolo <kenwizi@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenwizi/ken-js-footer/issues"
+  },
+  "homepage": "https://github.com/kenwizi/ken-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
